@@ -5,5 +5,5 @@ content:
     type: collection
   - name: about
     label: About
-    path: about
+    path: content/about
     type: file
