@@ -1,5 +1,9 @@
 content:
   - name: pages
     label: Pages
-    path: content
+    path: content/docs
+    type: collection
+  - name: about
+    label: About
+    path: about
     type: collection
