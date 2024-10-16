@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Stratasaver, CMS finally linked.
 toc: false
 ---
 
-This is the landing page.
+Please update and show me this you little thing.
 
 ## Explore
 
