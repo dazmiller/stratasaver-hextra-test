@@ -14,4 +14,6 @@ Please update and show me this you little thing.
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+This is just the beginning of something amazing.
+
+
