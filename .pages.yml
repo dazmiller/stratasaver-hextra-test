@@ -6,4 +6,4 @@ content:
   - name: about
     label: About
     path: about
-    type: collection
+    type: file
